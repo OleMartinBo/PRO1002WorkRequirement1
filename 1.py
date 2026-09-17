@@ -1,5 +1,4 @@
 #1. Greeting and Age Check
-
 name = input("Hello! Please enter your name: ")
 age = int(input("Hello, " + name + "! How old are you)? "))
 
@@ -10,7 +9,6 @@ else:
 
     
 #2. Number List Processor
-
 n = int(input("Please enter a numbers of your choice: "))
 
 numbers = []
@@ -29,7 +27,6 @@ else:
 
 
 #3. Sum of User Inputs
-
 n= []
 
 for i in range(3):
@@ -49,7 +46,6 @@ else:
 
 
 #4. Fruit Basket
-
 fruitDictionary = {
     "apple": 1, 
     "banana": 5, 
@@ -73,7 +69,6 @@ else:
 
 
 #5. Temperature Converter
-
 temperatureInput = input("Please enter the temperature in Celsius: ")
 
 temperatureCelsius = float(temperatureInput)
